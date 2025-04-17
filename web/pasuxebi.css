@@ -1,0 +1,36 @@
+*{
+    background-color: black;
+}
+
+/* Header */
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline-start: 10px 20px;
+    color: white;
+}
+header ul{
+    padding-right: 80px;
+    font-size: 20px;
+}
+header ul .b{
+    color: rgb(197, 197, 197);
+    text-decoration: none;
+    margin: 3px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    transition: color .3s;
+}
+.aaa{
+    color: green;
+}
+header ul .b:hover{
+    color: white;
+}
+
+/* Logo*/
+
+/* Main */
+
+

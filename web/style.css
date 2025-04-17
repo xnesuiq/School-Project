@@ -1,0 +1,45 @@
+*{
+    background-color: black;
+}
+
+/* Header */
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline-start: 10px 20px;
+}
+header ul{
+    padding-right: 80px;
+    font-size: 21px;
+}
+header ul .b{
+    color: rgb(197, 197, 197);
+    text-decoration: none;
+    margin: 3px;
+    font-family:'Courier New', Courier, monospace;
+    transition: color .4s;
+    font-family: "Gelasio", serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+.aaa{
+    color: rgb(0, 199, 0);
+    text-decoration: none;
+    margin: 3px;
+    font-family:'Courier New', Courier, monospace;
+    transition: color .4s;
+    font-family: "Gelasio", serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+header ul a:hover{
+    color: rgb(255, 255, 255);
+}
+/* Logo*/
+
+/* Main */
+
